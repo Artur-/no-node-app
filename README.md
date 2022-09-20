@@ -7,3 +7,7 @@ repository:
 mvn install:install-file -Dfile=vaadin-default-bundle.jar -DgroupId=com.vaadin -DartifactId=vaadin-default-bundle -Dversion=1.0-SNAPSHOT -Dpackaging=jar
 ```
 
+Then run the app
+```
+mvn
+```
